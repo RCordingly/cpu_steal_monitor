@@ -1,0 +1,17 @@
+{
+	"functionName":     "stealAnalyzer",	
+	"azureFunctionApp": "UWT-Workspace",
+	
+	"awsEndpoint":      "",
+	"googleEndpoint":   "",
+	"ibmEndpoint":      "",
+	"azureEndpoint":    "",
+	
+	"payload": {
+		"threads": 2,
+		"calcs": 50000,
+		"loops": 10,
+		"sleep": 5000,
+		"mode": 0
+	}
+}
